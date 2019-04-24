@@ -1,2 +1,7 @@
 # framework7-movieDB
-this app shows the latest movies, in theatre movie, top rated movies, child movies etc information with ratting.
+
+```
+clone repository from "https://github.com/sagardeveloper/framework7-movieDB.git"
+###or
+Download the project directly
+```
