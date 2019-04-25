@@ -6,7 +6,7 @@ clone repository from "https://github.com/sagardeveloper/framework7-movieDB.git"
 for example: git clone https://github.com/sagardeveloper/framework7-movieDB.git
 ### or
 Download the project directlly by clicking "Clone or Download"
-> Run npm Command in the project > npm install or npm i
+> Run npm Command in the project "#npm install or npm i"
 ```
 
 
