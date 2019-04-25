@@ -1,6 +1,6 @@
 # framework7-movieDB
 
- ### Install the project
+### Install the project
 ```
 clone repository from "https://github.com/sagardeveloper/framework7-movieDB.git"
 
@@ -8,7 +8,7 @@ for example: git clone https://github.com/sagardeveloper/framework7-movieDB.git
 ### OR
 
 Download the project directlly by clicking "Clone or Download"
- - Run npm Command in the project <pre>"npm install or npm i"</pre>
+ - Run npm Command in the project "npm install or npm i"
  ** **
  
 ```
@@ -25,7 +25,7 @@ You need the movie db api before running this application:
 
 > Config api.js file
 
-> Go to src # assets > js > api.js
+> Go to src  assets > js > api.js
 
 ```
 const key="paste your movie db api key here";
