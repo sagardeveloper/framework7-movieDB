@@ -32,10 +32,8 @@ const key="paste your movie db api key here";
 export default key;
 ```
 ### Running the Applications
-```python
-import foobar
+```
+check the platform by running this command > "cordova platform"
+- ss
 
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
 ```
