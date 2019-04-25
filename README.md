@@ -23,6 +23,7 @@ You need the movie db api before running this application:
 ## Usage
 
 > Config api.js file
+
 > Go to src > assets > js > api.js
 
 ```
