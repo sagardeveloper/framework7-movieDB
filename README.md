@@ -34,6 +34,16 @@ export default key;
 ### Running the Applications
 ```
 check the platform by running this command > "cordova platform"
-- ss
+- Run app on the browser by:
+ cordova run browser -- --lr
+ 
+ - Run app on the Android Device:
+ cordova run android 
+ 
+  - Run app on the IOS Device:
+ cordova run ios
+ 
+ 
+
 
 ```
