@@ -46,6 +46,6 @@ check the platform by running this command > "cordova platform"
 
 <img src="src/assets/images/gaana.png />
 
-
+<img src="src/assets/images/gaana.png" align="right" />
 
 
