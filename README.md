@@ -18,7 +18,7 @@ You need the movie db api before running this application:
 - Go to "https://www.themoviedb.org/"
 - Sign-up if you don't have account
 - Go to your profile setting 
-- Click on the api from left panel and create your secret api key
+- Click on the API from left panel and create your secret API key
 
 ## Usage
 
