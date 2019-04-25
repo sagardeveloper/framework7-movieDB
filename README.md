@@ -32,4 +32,10 @@ const key="paste your movie db api key here";
 export default key;
 ```
 ### Running the Applications
+```python
+import foobar
+
 foobar.pluralize('word') # returns 'words'
+foobar.pluralize('goose') # returns 'geese'
+foobar.singularize('phenomena') # returns 'phenomenon'
+```
