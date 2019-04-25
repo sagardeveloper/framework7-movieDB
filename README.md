@@ -12,5 +12,5 @@ Download the project directlly by clicking "Clone or Download"
 ### Crearte an movie API
 You need the movie db api before running this application:
 
-> Go to "https://www.themoviedb.org/"
-> Sign-up if you don't have account
+- Go to "https://www.themoviedb.org/"
+- Sign-up if you don't have account
