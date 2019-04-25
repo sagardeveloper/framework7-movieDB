@@ -32,6 +32,7 @@ const key="paste your movie db api key here";
 export default key;
 ```
 ### Running the Applications
+
 ```
 check the platform by running this command > "cordova platform"
 - Run app on the browser by:
