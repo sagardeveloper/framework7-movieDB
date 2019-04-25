@@ -42,7 +42,7 @@ check the platform by running this command > "cordova platform"
    cordova run ios
 ```
 
-[**Visit the website.**](http://markdown-here.com)<br>
+[**Visit the website.**](https://images.pexels.com/photos/67636/rose-blue-flower-rose-blooms-67636.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
 
 
 
