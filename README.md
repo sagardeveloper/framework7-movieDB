@@ -32,3 +32,4 @@ const key="paste your movie db api key here";
 export default key;
 ```
 ### Running the Applications
+foobar.pluralize('word') # returns 'words'
