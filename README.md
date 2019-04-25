@@ -8,10 +8,10 @@ for example: git clone https://github.com/sagardeveloper/framework7-movieDB.git
 ### OR
 
 Download the project directlly by clicking "Clone or Download"
- - Run npm Command in the project "npm install or npm i"
+ - Run npm Command in the project <pre>"npm install or npm i"</pre>
+ ** **
  
 ```
-
 
 ### Crearte an movie API
 You need the movie db api before running this application:
@@ -32,7 +32,6 @@ const key="paste your movie db api key here";
 export default key;
 ```
 ### Running the Applications
-
 ```
 check the platform by running this command > "cordova platform"
 - Run app on the browser by:
