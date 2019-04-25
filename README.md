@@ -25,7 +25,7 @@ You need the movie db api before running this application:
 
 > Config api.js file
 
-> Go to src > assets > js > api.js
+> Go to src # assets > js > api.js
 
 ```
 const key="paste your movie db api key here";
