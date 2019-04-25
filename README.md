@@ -19,7 +19,7 @@ You need the movie db api before running this application:
 - Go to your profile setting 
 - Click on the API from left panel and create your secret API key
 
-## Usage
+### Usage
 > Config api.js file
 
 > Go to src **assets > js > api.js**
@@ -44,6 +44,6 @@ check the platform by running this command > "cordova platform"
 
 [**Visit the website.**](https://images.pexels.com/photos/67636/rose-blue-flower-rose-blooms-67636.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
 
-<img src="src/assets/images/gaana.png" width="50px" height="50px"/>
+<img src="src/assets/images/gaana.png" width="50px" height="50px"/><h1>ss</h1>
 
 
