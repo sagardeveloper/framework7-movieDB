@@ -1,5 +1,9 @@
 # framework7-movieDB
 
+```
+<img src="https://media.giphy.com/media/128Ygie2wLdH5m/giphy.gif"/>
+```
+
 ## Install the project
 ```
 clone repository from "https://github.com/sagardeveloper/framework7-movieDB.git"
