@@ -1,6 +1,6 @@
 # framework7-movieDB
 
-<img src="https://media.giphy.com/media/128Ygie2wLdH5m/giphy.gif" style="display:block;margin:0 100px;"/>
+<img src="https://media.giphy.com/media/128Ygie2wLdH5m/giphy.gif"/>
 
 ## Install the project
 ```
