@@ -44,6 +44,6 @@ check the platform by running this command > "cordova platform"
 
 [**Visit the website.**](https://images.pexels.com/photos/67636/rose-blue-flower-rose-blooms-67636.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
 
-<img src="src/assets/images/gaana.png" width="50px" height="50px"/>
+<img src="https://1.bp.blogspot.com/-1ywx_cQYnNo/XAzvCM3XOGI/AAAAAAAAAcw/qUy2KYd-xA81KD6_MR_3o4sAsDnTGrP8wCLcBGAs/s1600/PicApp%2B-%2BSamsung%2BGalaxy%2BS8%2B%25281%2529.png"/>
 
 
