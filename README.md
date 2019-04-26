@@ -11,7 +11,7 @@ Download the project directlly by clicking "Clone or Download"
  - Run npm Command in the project "npm install or npm i"
 ```
 
-## Crearte an movie API
+## Create an movie API
 You need the movie db api before running this application:
 
 - Go to "https://www.themoviedb.org/"
@@ -41,7 +41,6 @@ check the platform by running this command > "cordova platform"
 - Run app on the IOS Device:
    cordova run ios
 ```
-## Screenshot:
-
+## Screenshot 
 | <img src="https://1.bp.blogspot.com/-1ywx_cQYnNo/XAzvCM3XOGI/AAAAAAAAAcw/qUy2KYd-xA81KD6_MR_3o4sAsDnTGrP8wCLcBGAs/s1600/PicApp%2B-%2BSamsung%2BGalaxy%2BS8%2B%25281%2529.png"/>        | <img src="https://3.bp.blogspot.com/-GbGikr1nGgQ/XAzvCLGwONI/AAAAAAAAAc0/DBZzJWISsIkpQuM3-8gyZ8sbfylPQtqhwCLcBGAs/s1600/PicApp%2B-%2BSamsung%2BGalaxy%2BS8%2B%25282%2529.png"/>            | <img src="https://4.bp.blogspot.com/-xK5OyJ612a4/XAzvB6fr2WI/AAAAAAAAAcs/qcttYQRqSCIHYvYSdmjY92s_UWrbXQbzQCLcBGAs/s1600/PicApp%2B-%2BSamsung%2BGalaxy%2BS8%2B%25283%2529.png"/>   | <img src="https://3.bp.blogspot.com/-grv0wfR_soA/XAzvC26cGSI/AAAAAAAAAc4/XR_HIDA-sqggk1NlpTdUlew3zfiicIC4QCLcBGAs/s1600/PicApp%2B-%2BSamsung%2BGalaxy%2BS8.png"/>   |
 | ------------- |:-------------:| -----:| -----:|
