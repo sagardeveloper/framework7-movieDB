@@ -54,3 +54,7 @@ check the platform by running this command > "cordova platform"
 <img src="https://3.bp.blogspot.com/-grv0wfR_soA/XAzvC26cGSI/AAAAAAAAAc4/XR_HIDA-sqggk1NlpTdUlew3zfiicIC4QCLcBGAs/s1600/PicApp%2B-%2BSamsung%2BGalaxy%2BS8.png"/>
 </span?
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
