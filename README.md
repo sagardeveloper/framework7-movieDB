@@ -1,5 +1,6 @@
 # framework7-movieDB
 
+## Project GIF File
 <img src="https://media.giphy.com/media/128Ygie2wLdH5m/giphy.gif"/>
 
 ## Install the project
