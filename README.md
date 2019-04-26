@@ -53,8 +53,6 @@ check the platform by running this command > "cordova platform"
 
 <img src="https://3.bp.blogspot.com/-grv0wfR_soA/XAzvC26cGSI/AAAAAAAAAc4/XR_HIDA-sqggk1NlpTdUlew3zfiicIC4QCLcBGAs/s1600/PicApp%2B-%2BSamsung%2BGalaxy%2BS8.png" width="100" height="100"/> 
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Tables        | Are           | Cool  | Cool  |
+| ------------- |:-------------:| -----:| -----:|
+
